@@ -167,14 +167,15 @@ const HomePage = () => {
           <Image src="/images/bilallink.jpg" alt="user" width={600} height={600} className="mt-7"/>
 
         </div>
-        <div className="h-[44.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
+
+        <div className="h-[34.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
           <div className="post-top flex justify-between text-[14px] p-4">
             <div className="post-top-left flex gap-3 items-center">
               <div>
             <Image src="/images/ali.jpg" alt="user" width={200} height={200} className="w-[3.5rem] rounded-[50%]"/>
-              </div>
+              </div> 
               <div>
-            <h1 className="text-[15px] font-bold">Ali Aftab Shaikh</h1>
+            <h1 className="text-[15px] font-bold">Ali Aftab Sheikh</h1>
            <h2 className="text-gray-600">
             Helping You Build Fast, Secure and Scalable Web Apps .....
              </h2> 
@@ -189,24 +190,23 @@ const HomePage = () => {
             <IoMdClose />
             </div>
           </div>
-        <p className="text-[14px]  p-[0px_1rem]">🚀 NEW ECMASCRIPT FEATURE 🚀</p>
+        <p className="text-[14px]  p-[0px_1rem]">The 2nd position was secured by Samia Salman, who has a background in Electronics and Robotics. What stood out is the diverse range of profiles among the top 13 students, showcasing the breadth of talent in our program.......        </p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">🚀 Elevating JavaScript: Embrace the Evolution from Try/Catch to ?= Operator! 🚀</p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">As developers, we continuously seek to simplify and optimize our code. The transformation in how we handle data fetching in JavaScript serves as a perfect example of coding evolution.</p>
 
-          <Image src="/images/bilallink.jpg" alt="user" width={600} height={600} className="mt-7"/>
+          <Image src="/images/ali image.jpg" alt="user" width={600} height={600} className="mt-7"/>
 
         </div>
+
         <div className="h-[44.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
           <div className="post-top flex justify-between text-[14px] p-4">
             <div className="post-top-left flex gap-3 items-center">
               <div>
-            <Image src="/images/bilal.jpg" alt="user" width={200} height={200} className="w-[3.5rem]"/>
+            <Image src="/images/Hamza ahmed.jpg" alt="user" width={200} height={200} className="w-[3.5rem] rounded-[50%]"/>
               </div>
               <div>
-            <h1 className="text-[15px] font-bold">Muhammad Bilal</h1>
-           <h2 className="text-gray-600">Full Stack Developer | Expertise in MERN Stack, Next.js.....</h2> 
+            <h1 className="text-[15px] font-bold">Hamza Ahmed Sheikh </h1>
+           <h2 className="text-gray-600">Helping you in developing Fast, Secure, and Scalable Web....</h2> 
             <p>Karachi Division</p>
               </div>
 
@@ -218,24 +218,21 @@ const HomePage = () => {
             <IoMdClose />
             </div>
           </div>
-        <p className="text-[14px]  p-[0px_1rem]">🚀 NEW ECMASCRIPT FEATURE 🚀</p>
+        <p className="text-[14px]  p-[0px_1rem]">𝗔𝗿𝗲 𝘆𝗼𝘂 𝗰𝘂𝗿𝗶𝗼𝘂𝘀 𝗮𝗯𝗼𝘂𝘁 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝘄𝗼𝗿𝗸, 𝗯𝘂𝘁 𝗱𝗼𝗻'𝘁 𝗸𝗻𝗼𝘄 𝗵𝗼𝘄 𝘁𝗼 𝗦𝗧𝗔𝗥𝗧? 🎯        </p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">🚀 Elevating JavaScript: Embrace the Evolution from Try/Catch to ?= Operator! 🚀</p>
-
-        <p className="text-[14px] mt-3 p-[0px_1rem]">As developers, we continuously seek to simplify and optimize our code. The transformation in how we handle data fetching in JavaScript serves as a perfect example of coding evolution.</p>
-
-          <Image src="/images/bilallink.jpg" alt="user" width={600} height={600} className="mt-7"/>
+          <Image src="/images/hamza image.jpg" alt="user" width={600} height={600} className="mt-7"/>
 
         </div>
+
         <div className="h-[44.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
           <div className="post-top flex justify-between text-[14px] p-4">
             <div className="post-top-left flex gap-3 items-center">
               <div>
-            <Image src="/images/bilal.jpg" alt="user" width={200} height={200} className="w-[3.5rem]"/>
+            <Image src="/images/jawad.jpg" alt="user" width={200} height={200} className="w-[3.5rem] rounded-[50%]"/>
               </div>
               <div>
-            <h1 className="text-[15px] font-bold">Muhammad Bilal</h1>
-           <h2 className="text-gray-600">Full Stack Developer | Expertise in MERN Stack, Next.js.....</h2> 
+            <h1 className="text-[15px] font-bold">Ali Jawwad </h1>
+           <h2 className="text-gray-600">Full Stack Developer | Next js, Typescript, Python, OpenAI.....</h2> 
             <p>Karachi Division</p>
               </div>
 
@@ -247,24 +244,23 @@ const HomePage = () => {
             <IoMdClose />
             </div>
           </div>
-        <p className="text-[14px]  p-[0px_1rem]">🚀 NEW ECMASCRIPT FEATURE 🚀</p>
+        <p className="text-[14px]  p-[0px_1rem]">Building your own things 🔥🔥🔥🔥
+        hashtag#programming hashtag#codinglife hashtag#fullstackdevelopment hashtag#AI hashtag#AGI hashtag#cloudnativecomputing hashtag#nextjs hashtag#typescript hashtag#tailwindcss</p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">🚀 Elevating JavaScript: Embrace the Evolution from Try/Catch to ?= Operator! 🚀</p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">As developers, we continuously seek to simplify and optimize our code. The transformation in how we handle data fetching in JavaScript serves as a perfect example of coding evolution.</p>
-
-          <Image src="/images/bilallink.jpg" alt="user" width={600} height={600} className="mt-7"/>
+          <Image src="/images/jawad image.jpg" alt="user" width={400} height={400} className="mt-7 w-[100%] h-[71%]"/>
 
         </div>
+
         <div className="h-[44.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
           <div className="post-top flex justify-between text-[14px] p-4">
             <div className="post-top-left flex gap-3 items-center">
               <div>
-            <Image src="/images/bilal.jpg" alt="user" width={200} height={200} className="w-[3.5rem]"/>
+            <Image src="/images/mubashir.jpg" alt="user" width={200} height={200} className="w-[3.5rem] rounded-[50%]"/>
               </div>
               <div>
-            <h1 className="text-[15px] font-bold">Muhammad Bilal</h1>
-           <h2 className="text-gray-600">Full Stack Developer | Expertise in MERN Stack, Next.js.....</h2> 
+            <h1 className="text-[15px] font-bold">Mubashir Ali</h1>
+           <h2 className="text-gray-600">Software Engineer | Typescript | NodeJS | ReactJS | Python | SQL |....</h2> 
             <p>Karachi Division</p>
               </div>
 
@@ -276,24 +272,23 @@ const HomePage = () => {
             <IoMdClose />
             </div>
           </div>
-        <p className="text-[14px]  p-[0px_1rem]">🚀 NEW ECMASCRIPT FEATURE 🚀</p>
+        <p className="text-[14px]  p-[0px_1rem]">🎉 Excited to share that I've been selected as the Trainer for the Governor of Sindh's initiatives for Web3 and Metaverse! 🌐🚀 Looking forward to empowering the generation with cutting-edge knowledge.</p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">🚀 Elevating JavaScript: Embrace the Evolution from Try/Catch to ?= Operator! 🚀</p>
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">As developers, we continuously seek to simplify and optimize our code. The transformation in how we handle data fetching in JavaScript serves as a perfect example of coding evolution.</p>
-
-          <Image src="/images/bilallink.jpg" alt="user" width={600} height={600} className="mt-7"/>
+          <Image src="/images/mubashir image.jpg" alt="user" width={600} height={600} className="mt-7 h-[70%]"/>
 
         </div>
+
+
         <div className="h-[44.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
           <div className="post-top flex justify-between text-[14px] p-4">
             <div className="post-top-left flex gap-3 items-center">
               <div>
-            <Image src="/images/bilal.jpg" alt="user" width={200} height={200} className="w-[3.5rem]"/>
+            <Image src="/images/ashrif.jpg" alt="user" width={200} height={200} className="w-[3.5rem] rounded-[50%]"/>
               </div>
               <div>
-            <h1 className="text-[15px] font-bold">Muhammad Bilal</h1>
-           <h2 className="text-gray-600">Full Stack Developer | Expertise in MERN Stack, Next.js.....</h2> 
+            <h1 className="text-[15px] font-bold">Asharib Ali</h1>
+           <h2 className="text-gray-600">🙌 I build AI & Blockchain stuffs 🔥</h2> 
             <p>Karachi Division</p>
               </div>
 
@@ -305,13 +300,15 @@ const HomePage = () => {
             <IoMdClose />
             </div>
           </div>
-        <p className="text-[14px]  p-[0px_1rem]">🚀 NEW ECMASCRIPT FEATURE 🚀</p>
+        <p className="text-[14px]  p-[0px_1rem]">Alhamdulillah, This message made my day ♥️ <br />
+        <br />
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">🚀 Elevating JavaScript: Embrace the Evolution from Try/Catch to ?= Operator! 🚀</p>
+You don't have to become like I was in my early days. If I say I want to become someone else, I might lose what I have and own......
 
-        <p className="text-[14px] mt-3 p-[0px_1rem]">As developers, we continuously seek to simplify and optimize our code. The transformation in how we handle data fetching in JavaScript serves as a perfect example of coding evolution.</p>
+</p>
 
-          <Image src="/images/bilallink.jpg" alt="user" width={600} height={600} className="mt-7"/>
+
+          <Image src="/images/ashrif image.jpg" alt="user" width={600} height={600} className="mt-7 h-[71%]"/>
 
         </div>
         <div className="h-[44.6rem] w-[100%]  border-2 mb-5 rounded-lg mt-10 one">
