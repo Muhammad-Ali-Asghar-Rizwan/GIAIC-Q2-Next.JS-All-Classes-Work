@@ -14,8 +14,8 @@ import { CgMenuGridO } from "react-icons/cg";
 const HeaderPage = () => {
   return (
     <div>
-      <nav className='  h-[3rem] mb-5 flex '>
-        <div className="nav-left  bg-white h-[100%] w-[32%] flex items-center justify-start pl-20 gap-2 ">
+      <nav className='  h-[4rem] mb-5 flex w-[100%]  bg-white'>
+        <div className="nav-left  h-[100%] w-[32%] flex items-center justify-start pl-16 gap-2 ">
         <FaLinkedin className='text-[#1b59b4] text-[37px] rounded-lg'/>
         <div className="input-div rounded-sm  border-none flex items-center h-8 w-[20rem]">
 
